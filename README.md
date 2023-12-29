@@ -1,6 +1,10 @@
 # stronghold.py
 Some utils for find Minecraft stronghold
 
+
+[![Python package](https://github.com/li0ard/stronghold.py/actions/workflows/python-package.yml/badge.svg)](https://github.com/li0ard/stronghold.py/actions/workflows/python-package.yml)
+
+
 ### Classes
 
 - `Point(x, y, z, angle)`
